@@ -23,7 +23,7 @@
               <div class="small-box bg-info">
                 <div class="inner">
                   <h3>{{ totalPelamar() }}</h3>
-                  <p>Total</p>
+                  <p>Total Pelamar</p>
                 </div>
                 <div class="icon">
                   <i class="ion ion-bag"></i>
